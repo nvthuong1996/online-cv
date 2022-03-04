@@ -60,15 +60,14 @@ experiences:
         , devops sử dụng docker kubernetes, gitlab ci. Tại đây tôi lựa chọn các công nghệ sử dụng trong dự án,
         đưa ra giải pháp công nghệ cho các vấn đề, là lập trình viên frontend,backend
         và làm các công việc devops của dự án và tìm thêm các stack mới để tối ưu luồng devops
-    - role: FullStack,Devops
-      time: 2020 - giữa2021
+    - role: Devops
+      time: 2020 - giữa 2021
       company: VVM
       details: |
-        Đây là một dự án freelancer của người quen. Khi giúp 1 người anh tìm lỗi hệ thống tôi nhận thấy hệ thống này có nhiều khó khăn về cách dev cũng như cách vận hành.
         Tại dự án này tôi tái tổ chức lại source code của dự án từ multi repo sang mono repo để tăng hiệu suất làm việc phù hợp với quy mô team.
         Tách phần lưu trữ của service từ lưu trữ tại service sang lưu trữ tập trung
         và chuyển đổi dùng docker swarm dang chạy kubernets. Thay đổi luồng deploy, cài đặt và quản trị các server vật lý...
-    - role: FullStack
+    - role: FullStack,Devops
       time: 2018 - 2020
       company: Rabiloo
       details: |
@@ -89,11 +88,8 @@ projects:
         link: ""
         tagline: Dự án quản lý bán hàng đa kênh. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: 
+    intro:
     papers: []
 
 skills:
@@ -101,14 +97,18 @@ skills:
 
     toolset:
       - name: JS
-        level: 50%
+        level: 40%
       - name: Vuejs
-        level: 50%
+        level: 40%
       - name: Nodejs
-        level: 50%
-      - name: Nodejs
-        level: 50%
+        level: 40%
+      - name: Typescipt
+        level: 40%
+      - name: Golang
+        level: 30%
+      - name: Bash
+        level: 30%
       - name: Devops
-        level: 70%
+        level: 60%
 
 footer: 
