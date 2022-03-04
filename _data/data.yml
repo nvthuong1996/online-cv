@@ -105,9 +105,9 @@ skills:
       - name: Typescipt
         level: 40%
       - name: Golang
-        level: 30%
+        level: 20%
       - name: Bash
-        level: 30%
+        level: 20%
       - name: Devops
         level: 60%
 
