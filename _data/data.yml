@@ -67,7 +67,7 @@ experiences:
       details: |
         Tại dự án này tôi tái tổ chức lại source code của dự án từ multi repo sang mono repo để tăng hiệu suất làm việc phù hợp với quy mô team.
         Tách phần lưu trữ của service từ lưu trữ tại service sang lưu trữ tập trung
-        và chuyển đổi dùng docker swarm dang chạy kubernetes. Thay đổi luồng deploy, cài đặt và quản trị các server vật lý...
+        và chuyển đổi hệ thống đang chạy trên docker swarm  sang dùng kubernetes, thay đổi luồng deploy, cài đặt và quản trị các server vật lý...
     - role: FullStack,Devops
       time: 2018 - giữa 2020
       company: làm tại công ty Rabiloo
