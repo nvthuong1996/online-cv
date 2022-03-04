@@ -59,22 +59,22 @@ experiences:
         Techcen là một công ty startup nhỏ tại đây tôi xây dựng product của công ty bằng công nghệ frontend(vuejs), backend( nodejs, nestjs, typescript), app ( ionic )
         , devops sử dụng docker kubernetes, gitlab ci. Tại đây tôi lựa chọn các công nghệ sử dụng trong dự án,
         đưa ra giải pháp công nghệ cho các vấn đề, là lập trình viên frontend,backend
-        và làm các công việc devops của dự án và tìm thêm các stack mới để tối ưu luồng devops
+        và làm các công việc devops như dựng luồng ci, cài đặt server, cloud, giám sát hệ thống... của dự án và tìm thêm các stack mới để tối ưu luồng devops
     - role: Devops
-      time: 2020 - giữa 2021
+      time: giữa 2020 - đầu 2021
       company: VVM
       details: |
         Tại dự án này tôi tái tổ chức lại source code của dự án từ multi repo sang mono repo để tăng hiệu suất làm việc phù hợp với quy mô team.
         Tách phần lưu trữ của service từ lưu trữ tại service sang lưu trữ tập trung
         và chuyển đổi dùng docker swarm dang chạy kubernets. Thay đổi luồng deploy, cài đặt và quản trị các server vật lý...
     - role: FullStack,Devops
-      time: 2018 - 2020
+      time: 2018 - giữa 2020
       company: Rabiloo
       details: |
         Xây dựng product của công ty bằng công nghệ frontend(vuejs), backend( nodejs, moleculerjs, typescript), app ( flutter )
         , devops sử dụng docker swarm,kubernetes. Xuất phát điểm là một thực tập sinh của công ty tôi được join vào dự án product của
         công ty. Sau đó tôi chuyển qua làm cả backend. Ở đây tôi cùng mọi người tìm hiểu và áp dụng kiến trúc microservice. Sau khi hiểu về cách hoạt 
-        động của frontend, backend. Tôi tìm hiểu thêm về devops đính hướng làm infrastructure và thực hiện chuyển đổi hệ thống đang chạy từ 
+        động của frontend, backend. Tôi tìm hiểu thêm về devops đính hướng làm infrastructure và thực  hiện migrate hệ thống đang chạy từ 
         docker swarm sang dùng kubernets và kiêm việc vận hành hệ thống product của công ty.
 projects:
     title: Projects
