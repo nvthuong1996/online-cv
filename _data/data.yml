@@ -92,16 +92,15 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: JS
-        level: 40%
+        level: 38%
       - name: Vue2,vue3
         level: 40%
       - name: Nodejs
-        level: 40%
+        level: 42%
       - name: Typescipt
-        level: 40%
+        level: 45%
       - name: Webpack
         level: 20%
       - name: Golang
@@ -114,5 +113,4 @@ skills:
         level: 50%
       - name: Devops Infrastructure
         level: 60%
-
 footer: 
