@@ -15,18 +15,17 @@ sidebar:
     email: nvthuong1996@gmail.com
     phone: 0389.789.690
     citizenship:
-    website: https://nvthuong1996.github.io/online-cv/
-    linkedin: false
-    xing: false
+    website: 
+    linkedin: 
+    xing: 
     github: nvthuong1996
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@nvthuong1996'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -49,18 +48,17 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Hồ sơ nghề nghiệp
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Tôi có xuất phát điểm là junior web frontend (vuejs) trong dự án product của công ty.
+      Sau đó tôi có cơ hội tiếp cận với backend ( nodejs ) của dự án và chuyển dần qua làm devops.
+      Tôi đã có nhiều thời gian làm việc với cloud, server và tự tay cài đặt cơ sở hạ tầng của nhiều dự án.
+      Tôi đã dùng qua nhiều công nghệ như kubernetes, docker, docker swarm,helm, gitlab ci, fastlane, nginx, certbot, cloudflare, digital ocean...
+      Stack ưu thích của tôi là kubernetes, helm, gitlab ci.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Công nghệ thông tin
+      university: Học viện bưu chính viễn thông
+      time: 2014 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,125 +67,65 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: FullStack,Devops
+      time: 2021 - Present
+      company: Techcen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Techcen là một công ty startup nhỏ tại đây tôi xây dựng product của công ty bằng công nghệ frontend(vuejs), backend( nodejs, nestjs, typescript), app ( ionic )
+        , devops sử dụng docker kubernetes, gitlab ci. Tại đây tôi lựa chọn các công nghệ sử dụng trong dự án,
+        đưa ra giải pháp công nghệ cho các vấn đề, là lập trình viên frontend,backend
+        và làm các công việc devops của dự án và tìm thêm các stack mới để tối ưu luồng devops
+    - role: FullStack,Devops
+      time: 2020 - giữa2021
+      company: VVM
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Đây là một dự án freelancer của người quen. Khi giúp 1 người anh tìm lỗi hệ thống tôi nhận thấy hệ thống này có nhiều khó khăn về cách dev cũng như cách vận hành.
+        Tại dự án này tôi tái tổ chức lại source code của dự án từ multi repo sang mono repo để tăng hiệu suất làm việc phù hợp với quy mô team.
+        Tách phần lưu trữ của service từ lưu trữ tại service sang lưu trữ tập trung
+        và chuyển đổi dùng docker swarm dang chạy kubernets. Thay đổi luồng deploy, cài đặt và quản trị các server vật lý...
+    - role: FullStack
+      time: 2018 - 2020
+      company: Rabiloo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Xây dựng product của công ty bằng công nghệ frontend(vuejs), backend( nodejs, moleculerjs, typescript), app ( flutter )
+        , devops sử dụng docker swarm,kubernetes. Xuất phát điểm là một thực tập sinh của công ty tôi được join vào dự án product của
+        công ty. Sau đó tôi chuyển qua làm cả backend. Ở đây tôi cùng mọi người tìm hiểu và áp dụng kiến trúc microservice. Sau khi hiểu về cách hoạt 
+        động của frontend, backend. Tôi tìm hiểu thêm về devops đính hướng làm infrastructure và thực hiện chuyển đổi hệ thống đang chạy từ 
+        docker swarm sang dùng kubernets và kiêm việc vận hành hệ thống product của công ty.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: > 
+      Các dự án chính đã làm
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: 123Train
+        link: "https://123train.vn"
+        tagline: Dự án elearning - đào tạo nhân viên trong nội bộ doanh nghiệp. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
+      - title: Puzi
+        link: ""
+        tagline: Dự án quản lý bán hàng đa kênh. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
 publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    papers: []
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: JS
+        level: 50%
+      - name: Vuejs
+        level: 50%
+      - name: Nodejs
+        level: 50%
+      - name: Nodejs
+        level: 50%
+      - name: Devops
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: 
