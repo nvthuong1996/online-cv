@@ -88,9 +88,6 @@ projects:
         link: ""
         tagline: Dự án quản lý bán hàng đa kênh. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
 publications:
-    title: 
-    intro:
-    papers: []
 
 skills:
     title: Skills &amp; Proficiency
@@ -108,7 +105,7 @@ skills:
         level: 20%
       - name: Bash
         level: 20%
-      - name: Devops
+      - name: Devops Infrastructure
         level: 60%
 
 footer: 
