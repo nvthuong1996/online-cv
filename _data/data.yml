@@ -54,7 +54,7 @@ education:
 
 experiences:
     - role: FullStack,Devops
-      time: 2021 - Present
+      time: 2021 - đến nay
       company: Techcen
       details: |
         Techcen là một công ty startup nhỏ tại đây tôi xây dựng product của công ty bằng công nghệ frontend(vuejs), backend( nodejs, nestjs, typescript), app ( ionic )
@@ -84,10 +84,10 @@ projects:
     assignments:
       - title: 123Train
         link: "https://123train.vn"
-        tagline: Dự án elearning - đào tạo nhân viên trong nội bộ doanh nghiệp. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
+        tagline: Dự án elearning - đào tạo nhân viên trong nội bộ doanh nghiệp của Techcen. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
       - title: Puzi
         link: ""
-        tagline: Dự án quản lý bán hàng đa kênh. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
+        tagline: Dự án quản lý bán hàng đa kênh của Rabiloo. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
 publications:
 
 skills:
