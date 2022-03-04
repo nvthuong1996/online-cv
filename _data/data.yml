@@ -33,11 +33,12 @@ sidebar:
 career-profile:
     title: Hồ sơ nghề nghiệp
     summary: |
-      Tôi có xuất phát điểm là junior web frontend (vuejs) trong dự án product của công ty.
+      Tôi có xuất phát điểm là junior web frontend (vuejs) trong dự án product của một công ty.
       Sau đó tôi có cơ hội tiếp cận với backend ( nodejs ) của dự án và chuyển dần qua làm devops.
-      Tôi đã có nhiều thời gian làm việc với cloud, server và tự tay cài đặt cơ sở hạ tầng của nhiều dự án.
-      Tôi đã dùng qua nhiều công nghệ như kubernetes, docker, docker swarm,helm, gitlab ci, fastlane, nginx, certbot, cloudflare, digital ocean...
+      Tôi đã có nhiều thời gian làm việc với cloud, server và đã tự tay cài đặt cơ sở hạ tầng của nhiều dự án.
+      Tôi đã dùng qua nhiều công nghệ như kubernetes, docker, docker swarm,helm, gitlab ci, fastlane, nginx, certbot, cloudflare, digital ocean, aws...
       Stack ưu thích của tôi là kubernetes, helm, gitlab ci.
+      Tôi thích tìm hiểu về open source và github là nơi tôi hay lui tới. Sẽ rất tuyệt vời nếu có thể sử dụng các open source một có có hiệu quả vào dự án đang làm.
 education:
     - degree: Công nghệ thông tin
       university: Học viện bưu chính viễn thông
@@ -95,16 +96,22 @@ skills:
     toolset:
       - name: JS
         level: 40%
-      - name: Vuejs
+      - name: Vue2,vue3
         level: 40%
       - name: Nodejs
         level: 40%
       - name: Typescipt
         level: 40%
+      - name: Webpack
+        level: 20%
       - name: Golang
         level: 20%
       - name: Bash
         level: 20%
+      - name: Aws,GCP,Firebase
+        level: 10%
+      - name: Digital ocean
+        level: 50%
       - name: Devops Infrastructure
         level: 60%
 
