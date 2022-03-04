@@ -111,6 +111,8 @@ skills:
         level: 10%
       - name: Digital ocean
         level: 50%
+      - name: linux
+        level: 40%
       - name: Devops Infrastructure
         level: 60%
 footer: 
