@@ -94,7 +94,7 @@ projects:
         tagline: Dự án quản lý bán hàng đa kênh của Rabiloo. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
       - title: QLDT OVERLOAD
         link: "https://github.com/nvthuong1996/qldt_overload_public"
-        tagline: Một dự án cho phép sinh viên PTIT có thể đăng kí thử tín chỉ trước khi nhà trường mở đăng kí thật. Trang web clone lại giống hệ website quản lý đào tạo của nhà trường
+        tagline: Một dự án cho phép sinh viên PTIT có thể đăng kí thử tín chỉ trước khi nhà trường mở đăng kí thật. Trang web clone lại giống hệt website quản lý đào tạo của nhà trường
 publications:
 
 skills:
