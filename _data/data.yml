@@ -27,20 +27,20 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages: []
-    interests: []
+    languages:
+        - idiom: English
+          level: Có thể đọc và hiểu được tiếng anh chuyên ngành
+    interests:
 
 career-profile:
     title: Career Profile
     summary: |
-      Tôi có xuất phát điểm là junior web frontend (vuejs) trong dự án product của một công ty.
-      Sau đó tôi có cơ hội tiếp cận với backend ( nodejs ) của dự án và chuyển dần qua làm devops.
-      Tôi đã có nhiều thời gian làm việc với cloud, server và đã tự tay cài đặt cơ sở hạ tầng của nhiều dự án.
-      Tôi đã dùng qua nhiều công nghệ như kubernetes, docker, docker swarm,helm, gitlab ci, fastlane, nginx, certbot, cloudflare, digital ocean, aws...
-      Stack ưu thích của tôi là kubernetes, helm, gitlab ci.
-      Tôi thích tìm hiểu về open source và github là nơi tôi hay lui tới. Sẽ rất tuyệt vời nếu có thể sử dụng các open source một có có hiệu quả vào dự án đang làm.
+      + Từng làm việc tại các ví trí fullstack, devops developer
+      + Đã có nhiều thời gian làm việc với cloud, server và đã tự tay cài đặt cơ sở hạ tầng của nhiều dự án.
+      + Đã dùng qua nhiều công nghệ như kubernetes, docker, docker swarm,helm, gitlab ci, fastlane, nginx, certbot, cloudflare, digital ocean, aws...
+      + Stack sở trường là kubernetes, gitlab ci
 education:
-    - degree: Công nghệ thông tin
+    - degree: Kĩ sư công nghệ phần mềm
       university: Học viện bưu chính viễn thông
       time: 2014 - 2020
       details: |
@@ -57,26 +57,27 @@ experiences:
       time: 2021 - đến nay
       company: làm tại công ty Techcen
       details: |
-        Techcen là một công ty startup nhỏ tại đây tôi xây dựng product của công ty bằng công nghệ frontend(vuejs), backend( nodejs, nestjs, typescript), app ( ionic )
-        , devops sử dụng docker kubernetes, gitlab ci. Tại đây tôi lựa chọn các công nghệ sử dụng trong dự án,
-        đưa ra giải pháp công nghệ cho các vấn đề, là lập trình viên frontend,backend
-        và làm các công việc devops như dựng luồng ci, cài đặt server, cloud, giám sát hệ thống... của dự án và tìm thêm các stack mới để tối ưu luồng devops
+        + Xây dựng dự án eleaning 123Train của công ty
+        + Đưa ra giải pháp công nghệ cho các vấn đề của công ty
+        + Là lập trình viên frontend (vuejs,ionic), backend (nestjs,golang)
+        + Xây dựng luồng vận hành của dự án và quản lý các server của công ty
     - role: Devops
       time: giữa 2020 - đầu 2021
       company: làm tại công ty VVM
       details: |
-        Tại dự án này tôi tái tổ chức lại source code của dự án từ multi repo sang mono repo để tăng hiệu suất làm việc phù hợp với quy mô team.
-        Tách phần lưu trữ của service từ lưu trữ tại service sang lưu trữ tập trung
-        và chuyển đổi hệ thống đang chạy trên docker swarm  sang dùng kubernetes, thay đổi luồng deploy, cài đặt và quản trị các server vật lý...
+        + Làm tại ví dụ trí devops của công ty
+        + Mirgate hệ thống đang chạy trên docker swarm sang kubernetes
+        + Tái tổ chức toàn bộ source của dự án từ multi repo sang mono repo
+        + Dựng lại luồng ci của dự án
+        + Tái cấu trúc các statefull service sang stateless service
+        + Vận hành các server vật lý của công ty
     - role: FullStack,Devops
       time: 2018 - giữa 2020
       company: làm tại công ty Rabiloo
       details: |
-        Xây dựng product của công ty bằng công nghệ frontend(vuejs), backend( nodejs, moleculerjs, typescript), app ( flutter )
-        , devops sử dụng docker swarm,kubernetes. Xuất phát điểm là một thực tập sinh của công ty tôi được join vào dự án product của
-        công ty. Sau đó tôi chuyển qua làm cả backend. Ở đây tôi cùng mọi người tìm hiểu và áp dụng kiến trúc microservice. Sau khi hiểu về cách hoạt 
-        động của frontend, backend. Tôi tìm hiểu thêm về devops đính hướng làm infrastructure và thực  hiện migrate hệ thống đang chạy từ 
-        docker swarm sang dùng kubernetes và kiêm việc vận hành hệ thống product của công ty.
+        + Làm tại vị trị frontend developer ( vuejs ,flutter ) sau đó chuyển qua làm fullstack ( nodejs,moleculerjs ) và phụ trách các công việc liên quan đến vận hành của dự án
+        + Xây dựng dự án prod quản lý bán hàng đa kênh của công ty
+        + Tìm hiểu về microservice để sử dụng trong dự án
 projects:
     title: Projects
     intro: > 
@@ -85,9 +86,15 @@ projects:
       - title: 123Train
         link: "https://123train.vn"
         tagline: Dự án elearning - đào tạo nhân viên trong nội bộ doanh nghiệp của Techcen. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
+      - title: Learnova
+        link: "https://learnova.vn/"
+        tagline: Một dự án elearning
       - title: Puzi
         link: ""
         tagline: Dự án quản lý bán hàng đa kênh của Rabiloo. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
+      - title: QLDT OVERLOAD
+        link: "https://github.com/nvthuong1996/qldt_overload_public"
+        tagline: Một dự án cho phép sinh viên PTIT có thể đăng kí thử tín chỉ trước khi nhà trường mở đăng kí thật. Trang web clone lại giống hệ website quản lý đào tạo của nhà trường
 publications:
 
 skills:
@@ -100,7 +107,7 @@ skills:
       - name: Nodejs
         level: 42%
       - name: Typescipt
-        level: 45%
+        level: 41%
       - name: Webpack
         level: 20%
       - name: Golang
