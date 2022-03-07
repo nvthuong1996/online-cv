@@ -68,7 +68,7 @@ experiences:
         + Làm tại ví dụ trí devops của công ty
         + Mirgate hệ thống đang chạy trên docker swarm sang kubernetes
         + Tái tổ chức toàn bộ source của dự án từ multi repo sang mono repo
-        + Dựng lại luồng ci của dự án
+        + Dựng lại luồng cd của dự án
         + Tái cấu trúc các statefull service sang stateless service
         + Vận hành các server vật lý của công ty
     - role: FullStack,Devops
