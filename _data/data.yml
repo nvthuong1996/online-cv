@@ -65,7 +65,7 @@ experiences:
       time: giữa 2020 - đầu 2021
       company: làm tại công ty VVM
       details: |
-        + Làm tại ví dụ trí devops của công ty
+        + Làm tại ví trí devops của công ty
         + Mirgate hệ thống đang chạy trên docker swarm sang kubernetes
         + Tái tổ chức toàn bộ source của dự án từ multi repo sang mono repo
         + Dựng lại luồng cd của dự án
