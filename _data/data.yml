@@ -57,7 +57,7 @@ experiences:
       time: tháng 2 năm 2022 - đến nay
       company: làm tại công ty Ftech.ai
       details: |
-        + Dựng luồng ci/cd để deploy dự án cho dự án
+        + Dựng luồng ci/cd deploy dự án
         + Xây dựng hạ tầng monitoring: search log,alert,tracing cho team dev làm việc
         + Dựng stack cho cần thiết để chạy các dự án: mysql cluster,elasticsearch,mongodb...
         + Theo dõi hệ thống và xử lý sự cố
