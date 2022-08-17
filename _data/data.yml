@@ -53,8 +53,17 @@ education:
           - Bullet point
 
 experiences:
+    - role: Devops Engineer
+      time: tháng 2 năm 2022 - đến nay
+      company: làm tại công ty Ftech.ai
+      details: |
+        + Dựng luồng ci/cd để deploy dự án cho dự án
+        + Xây dựng hạ tầng monitoring: search log,alert,tracing cho team dev làm việc
+        + Dựng stack cho cần thiết để chạy các dự án: mysql cluster,elasticsearch,mongodb...
+        + Theo dõi hệ thống và xử lý sự cố
+        + Hỗ trợ team dev làm việc với các thành phần liên quan như database,storage...
     - role: FullStack,Devops
-      time: 2021 - đến nay
+      time: 2021 - tháng 1 năm 2022
       company: làm tại công ty Techcen
       details: |
         + Xây dựng dự án eleaning 123Train của công ty
@@ -115,7 +124,7 @@ skills:
       - name: Bash
         level: 18%
       - name: Aws,GCP,Firebase
-        level: 10%
+        level: 50%
       - name: Digital ocean
         level: 50%
       - name: linux
