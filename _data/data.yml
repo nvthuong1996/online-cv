@@ -35,10 +35,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      + Từng làm việc tại các ví trí fullstack, devops developer
+      + Từng làm việc tại các ví trí Fullstack, Devops Engineer
       + Đã có nhiều thời gian làm việc với cloud, server và đã tự tay cài đặt cơ sở hạ tầng của nhiều dự án.
       + Đã dùng qua nhiều công nghệ như kubernetes, docker, docker swarm,helm, gitlab ci, fastlane, nginx, certbot, cloudflare, digital ocean, aws...
-      + Stack sở trường là kubernetes, gitlab ci
+      + Stack sở trường là kubernetes, gitlab ci...
 education:
     - degree: Kĩ sư công nghệ phần mềm
       university: Học viện bưu chính viễn thông
@@ -93,11 +93,11 @@ projects:
       Các dự án chính đã làm
     assignments:
       - title: Ftech Funzy
-        link: "https://fbang.vn/"
-        tagline: Một nền livestream
+        link: "https://funzy.vn/"
+        tagline: Một nền tảng giải trí phát hành game
       - title: Ftech Fbang
         link: "https://fbang.vn/"
-        tagline: Một nền tảng giải trí phát hành game
+        tagline: Một nền tảng livestream
       - title: 123Train
         link: "https://123train.vn"
         tagline: Dự án elearning - đào tạo nhân viên trong nội bộ doanh nghiệp của Techcen. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
