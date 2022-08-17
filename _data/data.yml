@@ -92,6 +92,12 @@ projects:
     intro: > 
       Các dự án chính đã làm
     assignments:
+      - title: Ftech Funzy
+        link: "https://fbang.vn/"
+        tagline: Một nền livestream
+      - title: Ftech Fbang
+        link: "https://fbang.vn/"
+        tagline: Một nền tảng giải trí phát hành game
       - title: 123Train
         link: "https://123train.vn"
         tagline: Dự án elearning - đào tạo nhân viên trong nội bộ doanh nghiệp của Techcen. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
