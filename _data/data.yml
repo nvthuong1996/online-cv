@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Nguyễn Văn Thường
     tagline: Devops Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile-thuongnv.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: nvthuong1996@gmail.com
@@ -29,7 +29,7 @@ sidebar:
 
     languages:
         - idiom: English
-          level: Có thể đọc và hiểu được tiếng anh chuyên ngành
+          level: Có thể đọc và hiểu được tiếng anh chuyên ngành và trao đổi công việc qua tin nhắn
     interests:
 
 career-profile:
@@ -107,9 +107,6 @@ projects:
       - title: Puzi
         link: ""
         tagline: Dự án quản lý bán hàng đa kênh của Rabiloo. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
-      - title: QLDT OVERLOAD
-        link: "https://github.com/nvthuong1996/qldt_overload_public"
-        tagline: Một dự án cho phép sinh viên PTIT có thể đăng kí thử tín chỉ trước khi nhà trường mở đăng kí thật. Trang web clone lại giống hệt website quản lý đào tạo của nhà trường
 publications:
 
 skills:
@@ -120,17 +117,17 @@ skills:
       - name: Vue2,vue3
         level: 40%
       - name: Nodejs
-        level: 42%
+        level: 70%
       - name: Typescipt
-        level: 41%
+        level: 70%
       - name: Webpack
-        level: 20%
-      - name: Golang
-        level: 22%
-      - name: Bash
-        level: 18%
-      - name: Aws,GCP,Firebase
         level: 50%
+      - name: Golang
+        level: 50%
+      - name: Bash
+        level: 70%
+      - name: Aws,GCP,Firebase
+        level: 70%
       - name: Digital ocean
         level: 50%
       - name: linux
