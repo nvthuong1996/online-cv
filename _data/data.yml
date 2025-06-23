@@ -36,9 +36,9 @@ career-profile:
     title: Career Profile
     summary: |
       + Từng làm việc tại các ví trí Fullstack, Devops Engineer
-      + Đã có nhiều thời gian làm việc với cloud, server và đã tự tay cài đặt cơ sở hạ tầng của nhiều dự án.
-      + Đã dùng qua nhiều công nghệ như kubernetes, docker, docker swarm,helm, gitlab ci, fastlane, nginx, certbot, cloudflare, digital ocean, aws...
-      + Stack sở trường là kubernetes, gitlab ci
+      + Có 5 năm kinh nghiệm triển khai hạ tầng cho các dự án Product
+      + Đã tham gia các dự án có sử dụng kubernetes, docker, docker swarm,helm, gitlab ci, github actions, fastlane, nginx, certbot, cloudflare, aws, azure...
+      + Làm nhiều về kubernetes trên hạ tầng onpremise
 education:
     - degree: Kĩ sư công nghệ phần mềm
       university: Học viện bưu chính viễn thông
