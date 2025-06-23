@@ -117,6 +117,18 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
+      - name: Bash
+        level: 70%
+      - name: Aws,GCP,Azure,Firebase
+        level: 70%
+      - name: Kubernetes
+        level: 80%
+      - name: Database,storage
+        level: 70%
+      - name: Monitoring
+        level: 60%
+      - name: linux
+        level: 40%
       - name: JS
         level: 38%
       - name: Vue2,vue3
@@ -129,14 +141,4 @@ skills:
         level: 50%
       - name: Golang
         level: 50%
-      - name: Bash
-        level: 70%
-      - name: Aws,GCP,Azure,Firebase
-        level: 70%
-      - name: Digital ocean
-        level: 50%
-      - name: linux
-        level: 40%
-      - name: Devops on premise
-        level: 60%
 footer: 
