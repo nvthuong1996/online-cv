@@ -131,7 +131,7 @@ skills:
         level: 50%
       - name: Bash
         level: 70%
-      - name: Aws,GCP,Firebase
+      - name: Aws,GCP,Azure,Firebase
         level: 70%
       - name: Digital ocean
         level: 50%
