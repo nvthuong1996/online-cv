@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nguyễn Văn Thường
-    tagline: Devops Engineer
+    tagline: DevOps Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -29,64 +29,64 @@ sidebar:
 
     languages:
         - idiom: English
-          level: Có thể đọc và hiểu được tiếng anh chuyên ngành và trao đổi công việc qua tin nhắn
+          level: Có thể đọc và hiểu được tiếng Anh chuyên ngành và trao đổi công việc qua tin nhắn
     interests:
 
 career-profile:
     title: Career Profile
     summary: |
-      + Từng làm việc tại các ví trí Fullstack, Devops Engineer
+      + Từng làm việc tại các vị trí Fullstack, DevOps Engineer
       + Có 5 năm kinh nghiệm triển khai hạ tầng cho các dự án Product
-      + Đã tham gia các dự án có sử dụng kubernetes, docker, docker swarm,helm, gitlab ci, github actions, fastlane, nginx, certbot, cloudflare, aws, azure...
-      + Làm nhiều về kubernetes trên hạ tầng onpremise
+      + Đã tham gia các dự án có sử dụng kubernetes, docker, docker swarm, helm, gitlab ci, github actions, fastlane, nginx, certbot, cloudflare, aws, azure...
+      + Làm nhiều về kubernetes trên hạ tầng on-premise
 education:
-    - degree: Kĩ sư công nghệ phần mềm
+    - degree: Kỹ sư công nghệ phần mềm
       university: Học viện bưu chính viễn thông
       time: 2014 - 2019
       details: ""
 
 experiences:
-    - role: Devops Engineer
+    - role: DevOps Engineer
       time: tháng 1 năm 2024 - đến nay
       company: làm tại công ty Trạng Nguyên
       details: |
-        + Devops chính triển khai hệ thống eleaning ver 2 tổ chức thi trực tuyến
+        + DevOps chính triển khai hệ thống e-learning ver 2 tổ chức thi trực tuyến
         + Mỗi một mùa thi tổ chức thi cho 2 triệu học sinh cấp 1
         + Dựng luồng ci/cd deploy dự án
         + Xây dựng hệ thống monitoring
         + Quản lý database và storage, kafka, redis, elasticsearch, rabbitmq, minio, ...
-    - role: Devops Engineer
+    - role: DevOps Engineer
       time: tháng 2 năm 2022 - tháng 1 năm 2024
       company: làm tại công ty Ftech.ai
       details: |
         + Dựng luồng ci/cd deploy dự án của phòng platform
-        + Xây dựng hạ tầng monitoring: search log,alert,tracing cho team dev làm việc
-        + Dựng stack cho cần thiết để chạy các dự án: mysql,elasticsearch,mongodb,redis...
+        + Xây dựng hạ tầng monitoring: search log, alert, tracing cho team dev làm việc
+        + Dựng stack cho cần thiết để chạy các dự án: mysql, elasticsearch, mongodb, redis...
         + Theo dõi hệ thống và xử lý sự cố
-        + Hỗ trợ team dev làm việc với các thành phần liên quan như database,storage...
-    - role: FullStack,Devops
+        + Hỗ trợ team dev làm việc với các thành phần liên quan như database, storage...
+    - role: FullStack, DevOps
       time: 2021 - tháng 1 năm 2022
       company: làm tại công ty Techcen
       details: |
-        + Xây dựng dự án eleaning 123Train của công ty
+        + Xây dựng dự án e-learning 123Train của công ty
         + Đưa ra giải pháp công nghệ cho các vấn đề của dự án
-        + Là lập trình viên frontend (vuejs,ionic), backend (nestjs,golang)
+        + Là lập trình viên frontend (vuejs, ionic), backend (nestjs, golang)
         + Xây dựng luồng vận hành của dự án và quản lý các server của công ty
-    - role: Devops
+    - role: DevOps
       time: giữa 2020 - đầu 2021
       company: làm tại công ty VVM
       details: |
-        + Làm tại ví trí devops của công ty
-        + Mirgate hệ thống đang chạy trên docker swarm sang kubernetes
+        + Làm tại vị trí DevOps của công ty
+        + Migrate hệ thống đang chạy trên docker swarm sang kubernetes
         + Tái tổ chức toàn bộ source của dự án từ multi repo sang mono repo
         + Dựng lại luồng cd của dự án
-        + Tái cấu trúc các statefull service sang stateless service
+        + Tái cấu trúc các stateful service sang stateless service
         + Vận hành các server vật lý của công ty
-    - role: FullStack,Devops
+    - role: FullStack, DevOps
       time: 2018 - giữa 2020
       company: làm tại công ty Rabiloo
       details: |
-        + Làm tại vị trị frontend developer ( vuejs ,flutter ) sau đó chuyển qua làm fullstack ( nodejs,moleculerjs ) và phụ trách các công việc liên quan đến vận hành của dự án
+        + Làm tại vị trí frontend developer (vuejs, flutter) sau đó chuyển qua làm fullstack (nodejs, moleculerjs) và phụ trách các công việc liên quan đến vận hành của dự án
         + Xây dựng dự án prod quản lý bán hàng đa kênh của công ty
         + Tìm hiểu về microservice để sử dụng trong dự án
 projects:
@@ -105,10 +105,10 @@ projects:
         tagline: Một nền tảng livestream
       - title: 123Train
         link: "https://123train.vn"
-        tagline: Dự án elearning - đào tạo nhân viên trong nội bộ doanh nghiệp của Techcen. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
+        tagline: Dự án e-learning - đào tạo nhân viên trong nội bộ doanh nghiệp của Techcen. Gồm các module như web cho học viên học, app cho học viên học, web quản trị admin, backend nodejs. Các module phát triển song song 2 hướng là hướng cho doanh nghiệp và cho giảng viên.
       - title: Learnova
         link: "https://learnova.vn/"
-        tagline: Một dự án elearning
+        tagline: Một dự án e-learning
       - title: Puzi
         link: ""
         tagline: Dự án quản lý bán hàng đa kênh của Rabiloo. Gồm các module quản lý cửa hàng, đơn hàng, chatbot bán hàng...
@@ -135,7 +135,7 @@ skills:
         level: 40%
       - name: Nodejs
         level: 70%
-      - name: Typescipt
+      - name: Typescript
         level: 70%
       - name: Webpack
         level: 50%
