@@ -43,21 +43,23 @@ education:
     - degree: Kĩ sư công nghệ phần mềm
       university: Học viện bưu chính viễn thông
       time: 2014 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: ""
 
 experiences:
     - role: Devops Engineer
-      time: tháng 2 năm 2022 - đến nay
+      time: tháng 1 năm 2024 - đến nay
+      company: làm tại công ty Trạng Nguyên
+      details: |
+        + Devops chính triển khai hệ thống eleaning ver 2 tổ chức thi trực tuyến
+        + Mỗi một mùa thi tổ chức thi cho 2 triệu học sinh cấp 1
+        + Dựng luồng ci/cd deploy dự án
+        + Xây dựng hệ thống monitoring
+        + Quản lý database và storage, kafka, redis, elasticsearch, rabbitmq, minio, ...
+    - role: Devops Engineer
+      time: tháng 2 năm 2022 - tháng 1 năm 2024
       company: làm tại công ty Ftech.ai
       details: |
-        + Dựng luồng ci/cd deploy dự án
+        + Dựng luồng ci/cd deploy dự án của phòng platform
         + Xây dựng hạ tầng monitoring: search log,alert,tracing cho team dev làm việc
         + Dựng stack cho cần thiết để chạy các dự án: mysql,elasticsearch,mongodb,redis...
         + Theo dõi hệ thống và xử lý sự cố
@@ -92,6 +94,9 @@ projects:
     intro: > 
       Các dự án chính đã làm
     assignments:
+      - title: Trạng nguyên
+        link: "https://trangnguyen.edu.vn/"
+        tagline: Thi trực tuyến cho học sinh cấp 1
       - title: Ftech Funzy
         link: "https://funzy.vn/"
         tagline: Một nền tảng giải trí phát hành game
