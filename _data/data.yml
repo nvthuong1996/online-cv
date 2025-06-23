@@ -123,7 +123,7 @@ skills:
         level: 70%
       - name: Kubernetes
         level: 80%
-      - name: Database,storage
+      - name: Database,storage,queue,cache
         level: 70%
       - name: Monitoring
         level: 60%
